@@ -1,0 +1,23 @@
+{
+    
+    "name":"Browser Emojis",
+    "version":"1.1",
+	"manifest_version": 3,
+    "description":"Biblioteca de emojis pra seu browser.",
+    "action":{
+        "default_title":"Emojis Tops",
+        "default_popup":"popup.html",
+		"default_icon":{
+            "16":"/image/icon16.png",
+            "32":"/image/icon32.png",
+            "64":"/image/icon32.png",
+            "128":"/image/icon32.png"
+		}
+    },
+    "icons":{
+        "16":"/image/icon16.png",
+        "32":"/image/icon32.png",
+        "64":"/image/icon32.png",
+        "128":"/image/icon32.png"
+    }
+}
