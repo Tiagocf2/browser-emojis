@@ -1,5 +1,5 @@
-# Emojis Tops Extension
-Use emojis também no seu browser!
+# Browser Emojis
+Uma biblioteca de emojis para o seu navegador.
 
 ![JavaScript](https://www.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge)
 
