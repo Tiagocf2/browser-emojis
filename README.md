@@ -1,5 +1,5 @@
-# Browser Emojis
-Uma biblioteca de emojis para o seu navegador.
+# 😍 Browser Emojis 😎
+Uma biblioteca de emojis para o seu navegador 👍
 
 ![JavaScript](https://www.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 
@@ -7,7 +7,7 @@ Uma biblioteca de emojis para o seu navegador.
 
 ## Como usar
 Apenas clique na extensão e depois clique no emoji que você quiser, ele será copiado para sua área de transferência.  
-Então é só usar `CRTL + V` para colar o emoji aonde quiser.
+Então é só usar `CRTL + V` para colar o emoji aonde quiser 👏
 
 <br>
 
@@ -18,7 +18,7 @@ Então é só usar `CRTL + V` para colar o emoji aonde quiser.
 3. Ative o *modo desenvolvedor* no canto superior.
 4. Clique em **Carregar sem compactação**.
 5. Selecione o arquivo `.rar` previamente baixado.
-
+6. Pronto 🎉🎉🎉
 <br>
 
 ### Firefox
@@ -28,6 +28,7 @@ Então é só usar `CRTL + V` para colar o emoji aonde quiser.
 4. Clique no botão de engrenagem.
 5. Selecione a opção `Instalar de um arquivo...`
 6. Selecione o arquivo `.rar` previamente baixado.
+7. Pronto 🎉🎉🎉
 
 <br>
 
